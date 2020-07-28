@@ -1,0 +1,19 @@
+D:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\obj\Debug\assignment4.csprojResolveAssemblyReference.cache
+E:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\bin\Debug\assignment4.exe.config
+E:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\bin\Debug\assignment4.exe
+E:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\bin\Debug\assignment4.pdb
+E:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\obj\Debug\assignment4.csprojResolveAssemblyReference.cache
+E:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\obj\Debug\assignment4.exe
+E:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\obj\Debug\assignment4.pdb
+D:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\bin\Debug\assignment4.exe.config
+D:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\bin\Debug\assignment4.exe
+D:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\bin\Debug\assignment4.pdb
+D:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\obj\Debug\assignment4.exe
+D:\Bcs(hons) Computing\Year 1\Intro to programming\assignment4\assignment4\obj\Debug\assignment4.pdb
+E:\Bcs(hons) Computing\Year 1\Intro to programming\Assignment folder\assignment4\assignment4\bin\Debug\assignment4.exe.config
+E:\Bcs(hons) Computing\Year 1\Intro to programming\Assignment folder\assignment4\assignment4\bin\Debug\assignment4.exe
+E:\Bcs(hons) Computing\Year 1\Intro to programming\Assignment folder\assignment4\assignment4\bin\Debug\assignment4.pdb
+E:\Bcs(hons) Computing\Year 1\Intro to programming\Assignment folder\assignment4\assignment4\obj\Debug\assignment4.exe
+E:\Bcs(hons) Computing\Year 1\Intro to programming\Assignment folder\assignment4\assignment4\obj\Debug\assignment4.pdb
+E:\Bcs(hons) Computing\Year 1\Intro to programming\Assignment folder\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+E:\Bcs(hons) Computing\Year 1\Intro to programming\Assignment folder\assignment4\assignment4\obj\Debug\assignment4.csprojResolveAssemblyReference.cache
